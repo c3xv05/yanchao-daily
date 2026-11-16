@@ -1,3 +1,11 @@
 .DS_Store
 __pycache__/
 *.zip
+
+# Private working material and local credentials
+drafts/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
