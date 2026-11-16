@@ -175,3 +175,7 @@ source-index的contentType必須source-index，placeIds必須[]，sources.access
 ## 12. 最後回報
 
 簡短列出：新增或修改內容、來源與缺漏、檢查結果、GitHub提交或檔案連結、網站實際發布狀態。明確區分「已修改」、「已上傳」與「已公開」，說明需要使用者補充的項目。不要把私人預覽當成公開成果。
+
+## GitHub Pages根目錄入口（已啟用的第二個網址）
+
+GitHub Pages：https://c3xv05.github.io/yanchao-daily/ 。儲存庫根目錄index.html導向dist/，.nojekyll避免README被當成首頁。請保留這兩個檔案；實際頁面仍只維護dist，不複製第二套版型。若使用Actions直接發布dist，根網址會直接顯示實際頁面。更新GitHub後須等待Pages發布並確認結果；這與Sites的發布狀態分開回報，不能只因推送成功就說兩個網址都更新。
