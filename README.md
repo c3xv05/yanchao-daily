@@ -15,6 +15,12 @@ python3 -m http.server 8000 --directory dist
 python3 scripts/validate.py
 ```
 
+## 以後直接複製給AI
+
+- [完整專案規則](AGENTS.md)：可複製全文，交給新的AI讀取。
+- [一段可重用的更新指令](AI-UPDATE-PROMPT.md)：貼上主題或來源，即可要求AI整理、檢查、上傳，並在有權限時更新公開網站。
+- GitHub上傳與Sites發布是兩個不同步驟，指令已要求AI分別確認結果。
+
 ## 請AI繼續新增內容
 先讓AI讀AGENTS.md與data/schema.md，再說：
 
