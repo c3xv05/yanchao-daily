@@ -47,3 +47,9 @@ python3 scripts/validate.py
 ## 連結
 GitHub：https://github.com/c3xv05/yanchao-daily
 公開網站：https://yanchao-daily-notes.mellowgrape4.chatgpt.site
+
+## GitHub Pages首頁相容
+
+GitHub Pages網址：https://c3xv05.github.io/yanchao-daily/
+
+實際頁面在dist/。若Pages設定為從main根目錄發布，根目錄index.html會導向dist/，.nojekyll確保靜態檔案不被Jekyll轉換。若改為GitHub Actions發布，既有流程直接發布dist/，首頁同樣可使用。請保留這兩個根目錄檔案，避免README再次成為首頁。
