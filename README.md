@@ -30,7 +30,7 @@ python3 scripts/validate.py
 3. 本專案附.github/workflows/pages.yml，會把dist部署至Pages。
 4. Actions成功後，從Pages設定取得公開網址，以無痕視窗確認。
 
-目前本機檔案完成不代表已上傳GitHub，Sites預覽亦不等於GitHub Repository。若使用其他靜態主機，發布目錄同樣為dist。
+本專案已上傳GitHub，並使用Sites提供公開網站。GitHub Pages是可選的另一種發布方式，需先依上述步驟啟用。若使用其他靜態主機，發布目錄同樣為dist。
 
 ## 模擬器準備
 文章與地點各自儲存JSON，以穩定ID關聯；格式與權限見data/schema.md。尚未與任何遊戲引擎串接。未知座標為null。網站原創文案可用於本專案與模擬器；原始來源及第三方影像權利不隨JSON轉移。
@@ -40,4 +40,4 @@ python3 scripts/validate.py
 
 ## 連結
 GitHub：https://github.com/c3xv05/yanchao-daily
-Sites預覽：https://yanchao-daily-notes.mellowgrape4.chatgpt.site （目前私人預覽；不當作已公開網址）
+公開網站：https://yanchao-daily-notes.mellowgrape4.chatgpt.site
