@@ -1,0 +1,414 @@
+{
+  "schemaVersion": "1.1.0",
+  "posts": [
+    {
+      "id": "2026-11-16-bus",
+      "title": "跨校區移動，先把官方時刻表存起來",
+      "category": "news",
+      "summary": "要往返和平與燕巢？先確認方向與當日公告。這篇收好官方查詢入口，不把可能變動的班次寫死。",
+      "body": [
+        "校方提供「和平往燕巢校區交通車時刻表」查詢頁。出發前請在官方頁面確認方向、停靠資訊與當日公告。",
+        "本站讀取到的頁面使用動態資料，因此不轉錄車次、發車時間或座位資訊，也不保證任何特定班次可搭乘。",
+        "模擬器延伸想法：未來可設計跨校區移動的行程選擇；遊戲時間與真實班表應分開。"
+      ],
+      "publishedAt": "2026-11-16",
+      "updatedAt": "2026-11-16",
+      "campus": "yanchao",
+      "placeIds": [
+        "yanchao-campus",
+        "heping-campus"
+      ],
+      "sources": [
+        {
+          "title": "校方｜和平往燕巢校區交通車時刻表",
+          "url": "https://apps.nknu.edu.tw/bus_nosql/toYC",
+          "publishedAt": null,
+          "accessedAt": "2026-11-16"
+        }
+      ],
+      "contentKind": "fact",
+      "verification": "verified",
+      "status": "published",
+      "tags": [
+        "交通",
+        "實用入口"
+      ],
+      "rights": {
+        "text": "本站原創文案，可供本專案與模擬器重用",
+        "sourceMedia": "未取得授權，不包含第三方圖片或原文"
+      },
+      "contentType": "guide",
+      "sourcePeriod": null,
+      "evidenceNote": "官方查詢入口；即時資訊仍以官方頁面為準。",
+      "simulatorUse": "可作為地點介紹與查詢入口；不得把動態資訊直接當成遊戲現況。"
+    },
+    {
+      "id": "2026-11-16-address",
+      "title": "第一次到燕巢，先認對校區",
+      "category": "news",
+      "summary": "把校區地址與官方地圖入口收在一起。出發前確認目的地，少一次搜尋、多一點從容。",
+      "body": [
+        "高師大官網列出的燕巢校區地址是高雄市燕巢區深中路62號；和平校區位於高雄市苓雅區和平一路116號。",
+        "官網提供校區地圖與交通資訊連結。辦活動、訪校或跨校區上課前，請再次確認通知中的校區與建築名稱。",
+        "目前地點索引先記錄校區層級，尚未建置建築座標或校園導航。"
+      ],
+      "publishedAt": "2026-11-16",
+      "updatedAt": "2026-11-16",
+      "campus": "yanchao",
+      "placeIds": [
+        "yanchao-campus",
+        "heping-campus"
+      ],
+      "sources": [
+        {
+          "title": "校方｜高師大簡介與校區連結",
+          "url": "https://www.nknu.edu.tw/zh/nknu-brief-introduction",
+          "publishedAt": null,
+          "accessedAt": "2026-11-16"
+        }
+      ],
+      "contentKind": "fact",
+      "verification": "verified",
+      "status": "published",
+      "tags": [
+        "新生日常",
+        "地點"
+      ],
+      "rights": {
+        "text": "本站原創文案，可供本專案與模擬器重用",
+        "sourceMedia": "未取得授權，不包含第三方圖片或原文"
+      },
+      "contentType": "guide",
+      "sourcePeriod": null,
+      "evidenceNote": "官方查詢入口；即時資訊仍以官方頁面為準。",
+      "simulatorUse": "可作為地點介紹與查詢入口；不得把動態資訊直接當成遊戲現況。"
+    },
+    {
+      "id": "2026-11-16-wifi",
+      "title": "校園 Wi-Fi：把官方設定說明收好",
+      "category": "news",
+      "summary": "從校方網路說明開始，確認連線方式與設備註冊；論壇舊教學可以看歷史，設定仍以官方頁面為準。",
+      "body": [
+        "圖書資訊處提供校園無線網路與設備註冊說明，列出NKNU、NKNU-802.1X等連線方式。",
+        "需要設定時，請從官方說明進入，並自行操作帳號驗證。本站不收集帳密，也不重刊舊文中的私人網路位址。",
+        "這個入口適合長期收藏，但設定方法可能改版，實際操作仍請查閱官方最新說明。"
+      ],
+      "publishedAt": "2026-11-16",
+      "updatedAt": "2026-11-16",
+      "campus": "yanchao",
+      "placeIds": [
+        "yanchao-campus"
+      ],
+      "sources": [
+        {
+          "title": "圖書資訊處｜校園無線網路",
+          "url": "https://lis.nknu.edu.tw/yc_lib_space/81-news1/82-campuswlan",
+          "publishedAt": null,
+          "accessedAt": "2026-11-16",
+          "access": "full-text"
+        }
+      ],
+      "contentKind": "fact",
+      "verification": "verified",
+      "status": "published",
+      "tags": [
+        "網路",
+        "常青指南"
+      ],
+      "contentType": "guide",
+      "sourcePeriod": null,
+      "evidenceNote": "已閱讀官方說明；不保證所有裝置與區域均適用。",
+      "simulatorUse": "可改編為虛構對話；須與來源紀錄分開，且不得搬用第三方素材。",
+      "rights": {
+        "text": "本站自行整理的摘要可供本專案與模擬器重用；原文權利仍屬原作者",
+        "sourceMedia": "未取得第三方影像與原文轉載授權，不隨JSON移轉"
+      }
+    },
+    {
+      "id": "2026-11-16-dorm",
+      "title": "住燕窩還是霽遠？先整理比較問題",
+      "category": "news",
+      "summary": "宿舍選擇一直是新生的功課。把論壇的提問整理成查詢清單，保留討論入口，不把舊價錢當成今年標準。",
+      "body": [
+        "高師板有學生詢問燕窩與霽遠樓差異，提到費用不同。這裡記錄的是曾有人提出這個問題，不是宿舍評比結論。",
+        "查詢清單：當學年住宿費、房型、設備、申請資格、住宿規定、到教室的動線。這些是本站建議的比較項目，並非原文已回答的資訊。",
+        "目前只讀到貼文本文，未完整取得留言。費用、床位尺寸及設備現況應向校方宿舍資訊確認，本站不提供未查證答案。"
+      ],
+      "publishedAt": "2026-11-16",
+      "updatedAt": "2026-11-16",
+      "campus": "yanchao",
+      "placeIds": [
+        "yanchao-campus"
+      ],
+      "sources": [
+        {
+          "title": "Dcard｜宿舍",
+          "url": "https://www.dcard.tw/f/nknu/p/239629626",
+          "publishedAt": null,
+          "accessedAt": "2026-11-16",
+          "access": "full-text"
+        }
+      ],
+      "contentKind": "community",
+      "verification": "source-confirmed",
+      "status": "published",
+      "tags": [
+        "住宿",
+        "新生問題"
+      ],
+      "contentType": "archive",
+      "sourcePeriod": null,
+      "evidenceNote": "貼文本文可讀；留言未完整取得；原文日期未提供。",
+      "simulatorUse": "可改編為虛構對話；須與來源紀錄分開，且不得搬用第三方素材。",
+      "rights": {
+        "text": "本站自行整理的摘要可供本專案與模擬器重用；原文權利仍屬原作者",
+        "sourceMedia": "未取得第三方影像與原文轉載授權，不隨JSON移轉"
+      }
+    },
+    {
+      "id": "2026-11-16-food",
+      "title": "去燕巢上課，午餐要在哪裡吃？",
+      "category": "news",
+      "summary": "從一則跨校區修課的提問，留下大家可能會用到的生活問題：先吃再出發，還是到校區再找？",
+      "body": [
+        "一則高師板貼文詢問赴燕巢修課時，應先在和平校區吃午餐，還是到燕巢校區用餐。",
+        "這份紀錄用來保留校園生活的提問脈絡，不是經確認的餐廳推薦名單。店家、價格與營業時間會變動。",
+        "本站建議的準備清單：確認上課校區、預留交通時間，再查看店家當日營業資訊。不能只憑舊留言認定店家仍在營業。"
+      ],
+      "publishedAt": "2026-11-16",
+      "updatedAt": "2026-11-16",
+      "campus": "yanchao",
+      "placeIds": [
+        "yanchao-campus",
+        "heping-campus"
+      ],
+      "sources": [
+        {
+          "title": "Dcard｜燕巢校區美食",
+          "url": "https://www.dcard.tw/f/nknu/p/238189422",
+          "publishedAt": null,
+          "accessedAt": "2026-11-16",
+          "access": "full-text"
+        }
+      ],
+      "contentKind": "community",
+      "verification": "source-confirmed",
+      "status": "published",
+      "tags": [
+        "飲食",
+        "跨校區"
+      ],
+      "contentType": "archive",
+      "sourcePeriod": null,
+      "evidenceNote": "貼文本文可讀；未取得完整留言或店家現況。",
+      "simulatorUse": "可改編為虛構對話；須與來源紀錄分開，且不得搬用第三方素材。",
+      "rights": {
+        "text": "本站自行整理的摘要可供本專案與模擬器重用；原文權利仍屬原作者",
+        "sourceMedia": "未取得第三方影像與原文轉載授權，不隨JSON移轉"
+      }
+    },
+    {
+      "id": "2026-11-16-freshman",
+      "title": "新生常問的事，先收成一張清單",
+      "category": "news",
+      "summary": "住宿、飲食、社團與校園生活：把歷年新生的問題分類，之後就能逐項補上有來源的回答。",
+      "body": [
+        "一則新生提問串涵蓋住宿、吃飯、閱讀空間與社團。這些提問能幫助我們建立長期更新的知識索引。",
+        "本文只整理問題類型，沒有把未查證的留言當作標準答案。宿舍申請、電器規定與活動安排應查當學年的正式說明。",
+        "之後新增內容時，可依住宿、交通、飲食與學習分類，連回相同校區ID，讓讀者與模擬器都能找到相關資料。"
+      ],
+      "publishedAt": "2026-11-16",
+      "updatedAt": "2026-11-16",
+      "campus": "yanchao",
+      "placeIds": [
+        "yanchao-campus"
+      ],
+      "sources": [
+        {
+          "title": "Dcard｜高師大燕巢校區",
+          "url": "https://www.dcard.tw/f/freshman/p/229365354",
+          "publishedAt": null,
+          "accessedAt": "2026-11-16",
+          "access": "full-text"
+        }
+      ],
+      "contentKind": "community",
+      "verification": "source-confirmed",
+      "status": "published",
+      "tags": [
+        "新生",
+        "生活清單"
+      ],
+      "contentType": "archive",
+      "sourcePeriod": null,
+      "evidenceNote": "本文可讀；來源日期未知；清單為編輯整理。",
+      "simulatorUse": "可改編為虛構對話；須與來源紀錄分開，且不得搬用第三方素材。",
+      "rights": {
+        "text": "本站自行整理的摘要可供本專案與模擬器重用；原文權利仍屬原作者",
+        "sourceMedia": "未取得第三方影像與原文轉載授權，不隨JSON移轉"
+      }
+    },
+    {
+      "id": "2026-11-16-ghost-mountain",
+      "title": "「鬼山」：不是鬼故事，是校園自嘲",
+      "category": "meme",
+      "summary": "2016年的燕巢生活文章，以「鬼山」稱呼校區。留下這個別稱的使用脈絡，與當年的個人抱怨分開閱讀。",
+      "body": [
+        "2016年5月20日的Dcard文章在開頭說明，「鬼山」是作者等人對高師大燕巢校區的別稱，並以生活不便為敘事背景。",
+        "這份紀錄只說明該別稱在這篇文章中如何使用，不宣稱它是最早起源，也不代表所有同學都認同。",
+        "舊文中的交通、餐飲與人員指控不在本站重述為事實。2016年的個人經驗也不能代表今日校園狀況。"
+      ],
+      "publishedAt": "2026-11-16",
+      "updatedAt": "2026-11-16",
+      "campus": "yanchao",
+      "placeIds": [
+        "yanchao-campus"
+      ],
+      "sources": [
+        {
+          "title": "Dcard｜鬼山：高師大燕巢校區(文長)",
+          "url": "https://www.dcard.tw/f/talk/p/224054538",
+          "publishedAt": "2016-05-20",
+          "accessedAt": "2026-11-16",
+          "access": "full-text"
+        }
+      ],
+      "contentKind": "community",
+      "verification": "source-confirmed",
+      "status": "published",
+      "tags": [
+        "校園別稱",
+        "歷年梗"
+      ],
+      "contentType": "archive",
+      "sourcePeriod": "2016",
+      "evidenceNote": "確認原文包含別稱說明；未獨立查證原文中的其他事件。",
+      "simulatorUse": "可改編為虛構對話；須與來源紀錄分開，且不得搬用第三方素材。",
+      "rights": {
+        "text": "本站自行整理的摘要可供本專案與模擬器重用；原文權利仍屬原作者",
+        "sourceMedia": "未取得第三方影像與原文轉載授權，不隨JSON移轉"
+      }
+    },
+    {
+      "id": "2026-11-16-top-school",
+      "title": "「高師大一級棒」與那個忘記刪的括號",
+      "category": "meme",
+      "summary": "一篇誇張稱讚校園的文章，最後用「發文換學分」式笑點轉折。這是反串閱讀筆記，不是學校排名資訊。",
+      "body": [
+        "2025年5月26日的高師板文章，將誇張讚美與校園生活描述放在一起，結尾以像是忘記刪除的發文備註製造笑點。",
+        "把這篇解讀為反串與校園自嘲，是本站的編輯判讀；不是作者親自說明的創作意圖。",
+        "文中提到學分的文字是笑點脈絡，不能據此認定學校真的有發文換學分制度，也不能作為校際排名依據。"
+      ],
+      "publishedAt": "2026-11-16",
+      "updatedAt": "2026-11-16",
+      "campus": "yanchao",
+      "placeIds": [
+        "yanchao-campus"
+      ],
+      "sources": [
+        {
+          "title": "Dcard｜高師大明明就一級棒",
+          "url": "https://www.dcard.tw/f/nknu/p/258924464",
+          "publishedAt": "2025-05-26",
+          "accessedAt": "2026-11-16",
+          "access": "full-text"
+        }
+      ],
+      "contentKind": "community",
+      "verification": "source-confirmed",
+      "status": "published",
+      "tags": [
+        "反串",
+        "校園自嘲"
+      ],
+      "contentType": "archive",
+      "sourcePeriod": "2025",
+      "evidenceNote": "貼文可讀；反串判讀屬編輯解讀，不是制度事實。",
+      "simulatorUse": "可改編為虛構對話；須與來源紀錄分開，且不得搬用第三方素材。",
+      "rights": {
+        "text": "本站自行整理的摘要可供本專案與模擬器重用；原文權利仍屬原作者",
+        "sourceMedia": "未取得第三方影像與原文轉載授權，不隨JSON移轉"
+      }
+    },
+    {
+      "id": "2026-11-16-wrong-school",
+      "title": "燕巢同學，你問的是哪一間學校？",
+      "category": "meme",
+      "summary": "一則新生提問串裡，留言出現把高師與鄰校搞混的插曲。笑點是辨認校名，不是把不同學校的生活資訊混在一起。",
+      "body": [
+        "搜尋可讀的這則新生提問串，出現留言先以另一校的宿舍名稱回應，之後才發現提問對象是高師大。",
+        "本站把這個對話插曲整理成校名辨識的小記，不宣稱這是全校流傳的正式梗名。",
+        "閱讀燕巢相關討論時，先核對看板與學校。高科大、舊高應大等鄰校的校園故事，不應直接搬成高師大的地點或事件。"
+      ],
+      "publishedAt": "2026-11-16",
+      "updatedAt": "2026-11-16",
+      "campus": "yanchao",
+      "placeIds": [
+        "yanchao-campus"
+      ],
+      "sources": [
+        {
+          "title": "Dcard｜高師大燕巢校區（含搜尋可讀留言）",
+          "url": "https://www.dcard.tw/f/freshman/p/229365354",
+          "publishedAt": null,
+          "accessedAt": "2026-11-16",
+          "access": "indexed-comments"
+        }
+      ],
+      "contentKind": "community",
+      "verification": "source-confirmed",
+      "status": "published",
+      "tags": [
+        "校名辨識",
+        "論壇趣事"
+      ],
+      "contentType": "archive",
+      "sourcePeriod": null,
+      "evidenceNote": "本文及部分搜尋收錄留言可讀；留言未完整取得。",
+      "simulatorUse": "可改編為虛構對話；須與來源紀錄分開，且不得搬用第三方素材。",
+      "rights": {
+        "text": "本站自行整理的摘要可供本專案與模擬器重用；原文權利仍屬原作者",
+        "sourceMedia": "未取得第三方影像與原文轉載授權，不隨JSON移轉"
+      }
+    },
+    {
+      "id": "2026-11-16-naiwa",
+      "title": "奶蛙：先把同學提供的線索收藏起來",
+      "category": "meme",
+      "summary": "同學提供高師板奶蛙連結，先保留來源入口。原文尚未完整取得，日期、故事與出現位置都暫不下結論。",
+      "body": [
+        "這個條目由維護者提供的Dcard高師板連結建立，主題由維護者指出為「奶蛙」。這裡的標題是本站索引名稱，不是已確認的原文標題。",
+        "目前工具無法完整讀取該貼文，因此先保留連結；沒有轉錄貼文、圖片或留言，也不宣稱奶蛙曾在某個燕巢地點出現。",
+        "後續補齊原文脈絡時，須記錄原文日期、討論重點、校區與來源讀取狀態。此條目暫不作為模擬器的真實事件或地點資料。"
+      ],
+      "publishedAt": "2026-11-16",
+      "updatedAt": "2026-11-16",
+      "campus": "yanchao",
+      "placeIds": [],
+      "sources": [
+        {
+          "title": "維護者提供｜Dcard高師板奶蛙線索",
+          "url": "https://www.dcard.tw/f/nknu/p/262320883",
+          "publishedAt": null,
+          "accessedAt": "2026-11-16",
+          "access": "user-link-only"
+        }
+      ],
+      "contentKind": "source-index",
+      "verification": "link-only",
+      "status": "published",
+      "tags": [
+        "奶蛙",
+        "待補脈絡"
+      ],
+      "contentType": "source-index",
+      "sourcePeriod": null,
+      "evidenceNote": "僅有維護者提供的連結與主題；原文未讀取，內容待補。",
+      "simulatorUse": "暫不匯入事件、對話或地點；取得原文脈絡後再評估。",
+      "rights": {
+        "text": "本站自行整理的摘要可供本專案與模擬器重用；原文權利仍屬原作者",
+        "sourceMedia": "未取得第三方影像與原文轉載授權，不隨JSON移轉"
+      }
+    }
+  ]
+}

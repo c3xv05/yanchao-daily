@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.1.0",
+  "places": [
+    {
+      "id": "yanchao-campus",
+      "name": "燕巢校區",
+      "campus": "yanchao",
+      "aliases": [],
+      "description": "高雄市燕巢區深中路62號。這裡是本網站地點資料的第一個節點。",
+      "coordinates": null,
+      "sources": [
+        {
+          "title": "校方｜高師大簡介與校區連結",
+          "url": "https://www.nknu.edu.tw/zh/nknu-brief-introduction",
+          "publishedAt": null,
+          "accessedAt": "2026-11-16"
+        }
+      ],
+      "rights": "本站摘要；來源原文與影像授權未確認"
+    },
+    {
+      "id": "heping-campus",
+      "name": "和平校區",
+      "campus": "heping",
+      "aliases": [],
+      "description": "高雄市苓雅區和平一路116號。可從校方交通資訊查詢跨校區移動方式。",
+      "coordinates": null,
+      "sources": [
+        {
+          "title": "校方｜高師大簡介與校區連結",
+          "url": "https://www.nknu.edu.tw/zh/nknu-brief-introduction",
+          "publishedAt": null,
+          "accessedAt": "2026-11-16"
+        }
+      ],
+      "rights": "本站摘要；來源原文與影像授權未確認"
+    }
+  ]
+}
